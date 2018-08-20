@@ -6,7 +6,7 @@ A Modern, Extremely lightweight replacement to jQuery.
 
 To embed in your project, please add the following to your head
 ```html
-<script src="https://gist.github.com/ianfabs/25d6655e92578cfb8c1ce91ff4ba0a22.js" defer></script>
+<script src="https://cdn.rawgit.com/ianfabs/25d6655e92578cfb8c1ce91ff4ba0a22/raw/fbc11aee18a392152a331f9b462ee73f59ba1a07/esquery.min.js" defer></script>
 ```
 
 ## d
