@@ -1,5 +1,5 @@
 # ESQuery
-A Modern, Extremely lightweight replacement to jQuery.
+A Modern, Extremely lightweight shortcut utility for ECMAScript
 
  - Please note the version stored in this repo is not minified, and has in-depth documented comments
  - See the [gist](https://gist.github.com/ianfabs/25d6655e92578cfb8c1ce91ff4ba0a22), for the minified version
