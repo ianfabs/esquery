@@ -1,8 +1,8 @@
 {
-  "name": "esquery",
+  "name": "esquerie",
   "version": "1.0.0",
-  "description": "a lightweight ecmascript shortcut lib",
-  "main": "esquery.js",
+  "description": "a lightweight ecmascript shortcut lib, and also ESQuery was taken :-(",
+  "main": "esquerie.js",
   "scripts": {
     "test": "echo \"Tests are dumb\""
   },
