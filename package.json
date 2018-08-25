@@ -1,0 +1,27 @@
+{
+  "name": "esquery",
+  "version": "1.0.0",
+  "description": "a lightweight ecmascript shortcut lib",
+  "main": "esquery.js",
+  "scripts": {
+    "test": "echo \"Tests are dumb\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianfabs/esquery.git"
+  },
+  "keywords": [
+    "ECMAScript",
+    "esquery",
+    "query",
+    "lib",
+    "tool",
+    "dom"
+  ],
+  "author": "Ian fabs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ianfabs/esquery/issues"
+  },
+  "homepage": "https://github.com/ianfabs/esquery#readme"
+}

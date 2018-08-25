@@ -100,3 +100,24 @@ const redirect = uri=>window.open(uri, "_self");
     *[1]: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_objects/Function/bind
     *[2]:
 */
+const ce = d.createElement.bind(d);
+Element.prototype.ac = Element.prototype.appendChild;
+const ctn = d.createTextNode.bind(d);
+console.__proto__.beep = () => {
+    let context = new AudioContext();
+    o = context.createOscillator()
+    g = context.createGain()
+    o.connect(g)
+    o.type = 'sine';
+    g.connect(context.destination)
+    o.start(0)
+    g.gain.exponentialRampToValueAtTime(
+      10, context.currentTime
+    )
+    setTimeout(()=>{
+        o.stop();
+    }, 500);
+};
+document.cookie.__proto__.getItem = (key) => (`; ${document.cookie}`.split(`; ${key}=`)).pop().split(";").shift()[0]; 
+document.cookie.__proto__.setItem = (key, val)=>document.cookie = `${key}=${val};`;
+function sleep(ms) {return new Promise(resolve => setTimeout(resolve, ms));}
